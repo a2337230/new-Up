@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "jquery": "^3.4.1",
-    "plupload": "^2.3.6",
+    "plupload": "^2.3.9",
     "vue": "^2.5.2"
   },
   "devDependencies": {
